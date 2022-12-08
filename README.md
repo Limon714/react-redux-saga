@@ -1,9 +1,9 @@
 # React Redux Saga
 
-```Redux => Library for State Management
+`Redux => Library for State Management
          Global Data Management
          A predictable State Container
-         Share any Component```
+         Share any Component`
 
 ```Saga => Handle Async data in Redux Like APIs Data
          We can called it Middleware
