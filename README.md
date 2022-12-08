@@ -1,6 +1,5 @@
 # React Redux Saga
 
-# Redux
 
 ## `Redux` 
             Library for State Management 
