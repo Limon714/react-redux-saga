@@ -1,5 +1,10 @@
 # React Redux Saga
 
+## `Command`
+          
+           npx create-react-app app-name
+           
+           npm i redux react-redux redux-saga
 
 ## `Redux` 
             Library for State Management 
