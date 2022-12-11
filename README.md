@@ -20,3 +20,12 @@
          Middleware between React and Redux 
          Write Async operations like time taking logics 
          and API calls.
+
+## `Shopping Cart Page`
+    
+    Add to Cart 
+    Remove From Cart
+    Empty Cart
+    Middlewire
+    Saga
+    Api
