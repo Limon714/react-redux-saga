@@ -20,6 +20,15 @@
          Middleware between React and Redux 
          Write Async operations like time taking logics 
          and API calls.
+         
+  
+ ## `Why Redux Saga`
+     
+     Redux Saga is an alternative approach to the organization of side effects. 
+     Instead of dispatching functions processed by Redux Thunk 
+     you create saga and write all the logic of event stream processing. 
+     Unlike thunks that are carried out when you dispatch them, 
+     sagas run in the background right after the app is launched.
 
 ## `Shopping Cart Page`
     
